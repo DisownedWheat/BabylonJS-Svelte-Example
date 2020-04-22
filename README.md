@@ -4,6 +4,8 @@
 
 This is a simple example of integrating [BabylonJS](babylonjs.com) with [Svelte](svelte.dev). It is based on the Svelte template https://github.com/sveltejs/template.
 
+There is also an [example that uses TypeScript](https://github.com/DisownedWheat/Babylonjs-Svelte-Typescript-Example).
+
 The following is all taken from the Svelte template README:
 
 ## Get started
